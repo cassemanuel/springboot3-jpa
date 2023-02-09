@@ -1,6 +1,6 @@
 # springboot3-jpa
 Projeto web services com Spring Boot e JPA / Hibernate. Feito com objetivo de adquirir novos conhecimentos e praticar.<br/>
-Neste projeto existia uma parte além do backend que consistia em implementar o bando de dados em um site online, no entanto, a partir de 11/2022 o heroku deixou de ofertar hospedagem gratuita.
+Neste projeto existia uma parte além, que consistia em implementar o bando de dados em um host online. No entanto, a partir de 11/2022, a plataforma deixou de ofertar hospedagem gratuita e por tal motivo decidi não prosseguir com essa parte da implementação.
 
 ### Objetivos
 <ul>
